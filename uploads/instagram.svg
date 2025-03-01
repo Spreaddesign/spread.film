@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="instagram.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="32.791667"
+     inkscape:cx="11.984752"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+  <path
+     d="m 12.000001,16.597702 c -2.5296609,0 -4.5977034,-2.061889 -4.5977034,-4.597704 0,-2.5358146 2.0618876,-4.5977028 4.5977034,-4.5977028 2.535813,0 4.597703,2.0618882 4.597703,4.5977028 0,2.535815 -2.068045,4.597704 -4.597703,4.597704 z M 19.77978,5.8697282 c 0,0.9170783 -0.738586,1.64951 -1.649509,1.64951 -0.917079,0 -1.649511,-0.738586 -1.649511,-1.64951 0,-0.910924 0.738588,-1.6495107 1.649511,-1.6495107 0.910923,0 1.649509,0.7385867 1.649509,1.6495107 z m 2.972813,14.2608788 c -0.480081,1.206359 -1.40947,2.135746 -2.621984,2.621983 -1.815692,0.720123 -6.124114,0.553941 -8.130608,0.553941 -2.0064957,0 -6.3210734,0.160027 -8.1306109,-0.553941 C 2.6630315,22.272508 1.7336432,21.34312 1.2474069,20.130607 0.52728472,18.314915 0.69346671,14.006493 0.69346671,11.999998 0.69346671,9.9935041 0.53343966,5.678926 1.2474069,3.8693886 1.7274882,2.6630304 2.6568766,1.7336421 3.8693901,1.2474058 5.6850828,0.52728383 9.9935053,0.69346583 12.000001,0.69346583 c 2.006494,0 6.321071,-0.16002712 8.130608,0.55393997 1.206359,0.4800815 2.135747,1.4094697 2.621984,2.6219828 0.720122,1.8156924 0.553941,6.1241155 0.553941,8.1306094 0,2.006495 0.166181,6.321072 -0.553941,8.130609 z"
+     id="path1"
+     style="fill:none;stroke:#ffffff;stroke-width:1.35352;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ssssssssssscsccsccsccss" />
+</svg>
