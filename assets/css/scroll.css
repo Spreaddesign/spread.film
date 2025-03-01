@@ -1,0 +1,61 @@
+.hscrollgroup {
+    display: flex;
+    position: relative;
+    
+    .hscrollbtn {
+    	display: flex;
+    	position: absolute;
+    	left: 50vw !important;
+    	right: 50vw !important;
+    	bottom: 2.5em;
+    	height: 2.6em;
+    	width: 1.4em;
+    	border-radius: 2em;
+    	font-size: 1em;
+    	justify-content: center;
+    	align-items: center;
+    	border: .15em solid #FFF;
+    }
+    
+    .hscrollbtn::after {
+    	position: absolute;
+    	content: '';
+    	height: .4em;
+    	width: .4em;
+    	border-radius: 2em;
+    	background: #FFF;
+    	animation: cursors 2s ease alternate infinite;
+    }
+}
+
+@keyframes cursors {
+    0% {
+        top: .5em;
+        opacity: 0;
+    }
+    50% {
+        top: .8em;
+        opacity: 0;
+    }
+    100% {
+        top: 1.6em;
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    @keyframes cursors {
+        0% {
+            top: .25em;
+            opacity: 0;
+        }
+        50% {
+            top: .6em;
+            opacity: 0;
+        }
+        100% {
+            top: 1.2em;
+            opacity: 1;
+        }
+    }
+}

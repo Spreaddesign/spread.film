@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Tusker Grotesk 3600';
+  src: url('TuskerGrotesk-3600Semibold.woff2') format('woff2'), url('TuskerGrotesk-3600Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
